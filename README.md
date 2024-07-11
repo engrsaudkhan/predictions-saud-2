@@ -14,25 +14,6 @@ Here are some tips how we have developed the GUI.
 1) Python must be installed.
 2) relevant libraries must be installed including, for user ease import following libraries
 -------------------------------------------------------------
-import tkinter as tk
-from tkinter import ttk
-from math import pow, sqrt
-from PIL import Image, ImageTk
-import xgboost as xgb
-import numpy as np
-from sklearn.model_selection import train_test_split
-import pandas as pd
-from sklearn.multioutput import MultiOutputRegressor
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import xgboost as xgb
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score, KFold
-from sklearn.multioutput import MultiOutputRegressor
-from sklearn.metrics import mean_squared_error
-class RangeInputGUI:
 -------------------------------------------------------------
 
 2) Run it in IDEs such as VS code, Jupyter notebook, Anaconda, Spyder, etc.
