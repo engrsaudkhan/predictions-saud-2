@@ -2,7 +2,7 @@
 
 This is Graphical User Interface (GUI) for Estimating compressive strength of foam composite concrete containing fly ash
 
-I have made the GUI public for the usage and improvement of more similar problems and the sole purpose of research and development.
+I** have made the GUI public for the usage and improvement of more similar problems and the sole purpose of research and development.
 
 ** Muhammad Saud Khan from Department of Civil Engineering, University of Manitoba, Canada, and Department of Civil Engineering, COMSATS University Islamabad and Department of Civil Engineering, and Ghulam Ishaq Khan Institute of Engineering Sciences and Technology with the contribution of:
 
