@@ -1,7 +1,6 @@
 # predictions-saud-2
-Graphical User Interface (GUI) for Estimating compressive strength of foam composite concrete containing fly ash
 
-This Graphical User Interface for Graphical User Interface (GUI) for Estimating compressive strength of foam composite concrete containing fly ash
+This is Graphical User Interface (GUI) for Estimating compressive strength of foam composite concrete containing fly ash
 
 I have made the GUI public for the usage and improvement of more similar problems and the sole purpose of research and development.
 
